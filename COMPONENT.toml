@@ -1,0 +1,7 @@
+name = "SigmaOS-brand"
+schema_version = 1
+responsibility = "visual identity, logos, themes, screenshots, and marketing assets"
+integration_repository = "https://github.com/AaryanSinghChauhan09/SigmaOS"
+canonical_branch = "main"
+status = "scaffold"
+license = "CC-BY-SA-4.0"
