@@ -1,0 +1,9 @@
+[package]
+name = "brand"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-brand component"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-brand"
+
+[dependencies]
